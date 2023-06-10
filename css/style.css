@@ -1,0 +1,86 @@
+*{
+    padding:0px;
+    margin:0;
+    outline:0px;
+    display:border-box;
+}
+#first-ul{
+    background-color:#fff;
+    
+}
+li{
+    list-style:none;
+    display: inline-block;
+    
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 10px;
+}
+.anchor{
+    color: #000;
+    
+}
+.anchor:hover{
+    background-color: #7CB87B;
+}
+.pad{
+    padding:20px; 
+}
+#upg, #get, #create, #log, #sign{
+    border-radius: 20px;
+}
+#upg{
+    background-color: #9763f6;
+}
+#upg:hover{
+    background-color: #8141f9;
+}
+#get{
+    background-color:   #FFC0C7;
+}
+#get:hover{
+    background-color: #f7a8b2;
+}
+#create{
+    background-color:#FFF4A3;
+}
+#create:hover{
+    background-color: #f2e57d;  
+}
+#sign{
+    background-color:#059862;
+    color:#fff;
+}
+#sign:hover{
+    background-color: #036a44;   
+}
+#log{
+    background-color: #dcf9dc ;
+}
+#log:hover{
+    background-color: #036a44;
+    color:#fff;   
+}
+#second-ul{
+    background-color:#2B344A;
+}
+
+#html-tag{
+    background-color:#7CB87B  ;
+}
+.anchor-2{
+    color:#fff;
+}
+
+.anchor-2:hover{
+    background-color: #000;
+}
+
+
+
+
+
+
